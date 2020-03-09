@@ -1,0 +1,28 @@
+Scenario,Group,Endpoint,Value,Value2,EndpointLabels,GroupLabels
+BASE,1,pe1,0.2,,Clinical Remission,PLC
+BASE,1,se1,20,20,SNOT-22,Low Dose
+BASE,1,se2,0.2,,Corticosteroid free,High Dose
+BASE,2,pe1,0.5,,,
+BASE,2,se1,50,20,,
+BASE,2,se2,0.5,,,
+BASE,3,pe1,0.5,,,
+BASE,3,se1,50,20,,
+BASE,3,se2,0.5,,,
+BASE-,1,pe1,0.2,,,
+BASE-,1,se1,20,20,,
+BASE-,1,se2,0.2,,,
+BASE-,2,pe1,0.45,,,
+BASE-,2,se1,45,20,,
+BASE-,2,se2,0.45,,,
+BASE-,3,pe1,0.45,,,
+BASE-,3,se1,45,20,,
+BASE-,3,se2,0.45,,,
+BASE--,1,pe1,0.2,,,
+BASE--,1,se1,20,20,,
+BASE--,1,se2,0.2,,,
+BASE--,2,pe1,0.4,,,
+BASE--,2,se1,40,20,,
+BASE--,2,se2,0.4,,,
+BASE--,3,pe1,0.4,,,
+BASE--,3,se1,40,20,,
+BASE--,3,se2,0.4,,,
